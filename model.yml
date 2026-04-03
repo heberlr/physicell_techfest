@@ -1,0 +1,5 @@
+short_name: template-model
+version: 1.0.0
+binary: project
+config: 
+  - config/PhysiCell_settings.xml
