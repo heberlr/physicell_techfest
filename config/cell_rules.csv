@@ -1,4 +1,0 @@
-villager,damage,increases,apoptosis,0.05,0.5,4,0
-villager,damage,increases,transform to zombie,0.05,0.5,4,0
-villager,quorum,increases,attack zombie,0.1,0.5,4,0
-zombie,damage,increases,necrosis,0.05,0.5,4,0
